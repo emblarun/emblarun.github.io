@@ -1,0 +1,55 @@
+﻿p
+{
+text-indent: 50px
+}
+
+
+h1
+{
+font-family: Verdana, sans-serif;
+font-size: 48px;
+font-style: italic;
+color: white;
+text-align: center;
+}
+
+body 
+{
+background-color: #346CCC;
+}
+
+img
+{
+float: left;
+margin: 20px;
+}
+
+a
+{
+color: white;
+}
+
+.container
+{
+background-color: #27B5FF;
+text-align: justify;
+margin: 20px;
+padding: 10px;
+}
+
+.skip
+{
+float: right
+}
+
+.raud
+{
+color: red;
+}
+
+.ska
+{
+font-style: italic;
+}
+
+
